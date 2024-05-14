@@ -1,0 +1,6 @@
+__pycache__
+.idea
+.ipynb_checkpoints
+.venv
+Quran_Speech_Dataset
+Quran_Speech_Dataset.tar.xz
